@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+  GBNRdtSender.cpp
+  GBNRdtReceiver.cpp
+  GBN.cpp
+  Generating Code...
+netsimlib.lib(DataStructure.obj) : warning LNK4099: PDB 'netsimlib.pdb' was not found with 'netsimlib.lib(DataStructure.obj)' or at 'C:\Users\郭倜维\Documents\Visual Studio 2015\Projects\GBN\Debug\netsimlib.pdb'; linking object as if no debug info
+netsimlib.lib(FileAppMessageFeeder.obj) : warning LNK4099: PDB 'netsimlib.pdb' was not found with 'netsimlib.lib(FileAppMessageFeeder.obj)' or at 'C:\Users\郭倜维\Documents\Visual Studio 2015\Projects\GBN\Debug\netsimlib.pdb'; linking object as if no debug info
+netsimlib.lib(FileAppMessageWriter.obj) : warning LNK4099: PDB 'netsimlib.pdb' was not found with 'netsimlib.lib(FileAppMessageWriter.obj)' or at 'C:\Users\郭倜维\Documents\Visual Studio 2015\Projects\GBN\Debug\netsimlib.pdb'; linking object as if no debug info
+netsimlib.lib(NetworkServiceConfiguration.obj) : warning LNK4099: PDB 'netsimlib.pdb' was not found with 'netsimlib.lib(NetworkServiceConfiguration.obj)' or at 'C:\Users\郭倜维\Documents\Visual Studio 2015\Projects\GBN\Debug\netsimlib.pdb'; linking object as if no debug info
+netsimlib.lib(NetworkServiceSimulator.obj) : warning LNK4099: PDB 'netsimlib.pdb' was not found with 'netsimlib.lib(NetworkServiceSimulator.obj)' or at 'C:\Users\郭倜维\Documents\Visual Studio 2015\Projects\GBN\Debug\netsimlib.pdb'; linking object as if no debug info
+netsimlib.lib(RandomEvent.obj) : warning LNK4099: PDB 'netsimlib.pdb' was not found with 'netsimlib.lib(RandomEvent.obj)' or at 'C:\Users\郭倜维\Documents\Visual Studio 2015\Projects\GBN\Debug\netsimlib.pdb'; linking object as if no debug info
+netsimlib.lib(RandomEventList.obj) : warning LNK4099: PDB 'netsimlib.pdb' was not found with 'netsimlib.lib(RandomEventList.obj)' or at 'C:\Users\郭倜维\Documents\Visual Studio 2015\Projects\GBN\Debug\netsimlib.pdb'; linking object as if no debug info
+netsimlib.lib(stdafx.obj) : warning LNK4099: PDB 'netsimlib.pdb' was not found with 'netsimlib.lib(stdafx.obj)' or at 'C:\Users\郭倜维\Documents\Visual Studio 2015\Projects\GBN\Debug\netsimlib.pdb'; linking object as if no debug info
+netsimlib.lib(Utils.obj) : warning LNK4099: PDB 'netsimlib.pdb' was not found with 'netsimlib.lib(Utils.obj)' or at 'C:\Users\郭倜维\Documents\Visual Studio 2015\Projects\GBN\Debug\netsimlib.pdb'; linking object as if no debug info
+  GBN.vcxproj -> C:\Users\郭倜维\Documents\Visual Studio 2015\Projects\GBN\Debug\GBN.exe
+  GBN.vcxproj -> C:\Users\郭倜维\Documents\Visual Studio 2015\Projects\GBN\Debug\GBN.pdb (Full PDB)
